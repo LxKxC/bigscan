@@ -25,6 +25,8 @@ winpcap：[https://www.winpcap.org/install/default.htm](https://www.winpcap.org/
 
 第一次运行会自动生成配置文件，你需要做的就是把需要检查的IP段一行一段的放进本程序自动生成的IP.txt里面，然后再次运行bigscan.py就好啦！
 
+扫描结束会在程序目录下生成表格文件。
+
 bigscan.exe是懒人版程序，依赖都打包好了，不需要准备环境。
 
 线程设置在scan.config文件里。
